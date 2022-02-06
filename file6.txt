@@ -1,0 +1,1 @@
+File6 created on remote repo so that local and remote branches diverge.
